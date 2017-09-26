@@ -1,15 +1,28 @@
 body {
 	color: #62C8CB;
 	font-size: 20px;
-	font-family: Helvetica;
+	font-family: Arial;
 	line-height: 1.5em;
 }
 h1,h2 {
 	color: #119DA2;
-	font-family: Helvetica;
+	font-family: Arial;
 	text-transform: uppercase;
 	line-height: 1.2em;
 }
 p {
 	padding-bottom: 10px;
+}
+.button {
+    font: bold 16px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    text-transform: uppercase;
+    letter-spacing: 0.17em;
 }
